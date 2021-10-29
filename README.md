@@ -1,4 +1,4 @@
-# python-bigquery-sandbox
+# poc-bigquery-python
 Access a Google BigQuery Sandbox
 
 ## Requirements
